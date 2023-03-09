@@ -12,3 +12,6 @@ This script, **motif-mark-oop.py**, takes an input FASTA and text file containin
 - PNG file named by input FASTA file name
 - PDF file named by input FASTA file name
 
+Example output:
+
+![alt text](https://github.com/justinemacalindong/motif-mark/blob/main/Figure_1.png)
