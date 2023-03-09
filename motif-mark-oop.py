@@ -122,7 +122,7 @@ colors = [[0.50, 0.70, 0.52],[0.97, 0.36, 0.01],[0.95,0.77,0.06],[0.42, 0.81, 0.
 # 6. Drawing genes with their exons and motifs one at a time
 with open("./one_line.fa", "r") as fasta:
 
-    header_vert = 75 # starting vertical position for header lines
+    header_vert = 30 # starting vertical position for header lines
     line_vert = 50 # starting vertical position for gene lines
 
     for line in fasta:
